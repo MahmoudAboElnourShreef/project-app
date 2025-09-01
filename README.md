@@ -7,3 +7,6 @@ Discription
 AWS infrastructure for a customer-facing application. The architecture
 includes networking, firewalls, load balancing, auto scaling, databases,
 security monitoring, and disaster recovery (DR).
+
+# Architecture:
+[image here](Downloads/gbg)
