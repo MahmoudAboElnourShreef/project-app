@@ -10,3 +10,5 @@ security monitoring, and disaster recovery (DR).
 
 # Architecture:
 [image here]([https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view?usp=drive_link](https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view?usp=sharing))
+
+[image here](https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view)
