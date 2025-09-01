@@ -9,4 +9,4 @@ includes networking, firewalls, load balancing, auto scaling, databases,
 security monitoring, and disaster recovery (DR).
 
 # Architecture:
-[image here](Downloads/gbg)
+[image here](AboEl-Nour/Downloads/gbg)
