@@ -10,4 +10,4 @@ security monitoring, and disaster recovery (DR).
 
 # Architecture:
 
-<img width="1715" height="739" alt="gbg" src="https://github.com/user-attachments/assets/98574a3f-8ed4-4ea3-978c-db6a49845a78" />
+<img width="1715" height="739" alt="my-project" src="https://github.com/user-attachments/assets/23f13e40-0bb6-4579-80ea-37495af7991e" />
