@@ -1,4 +1,4 @@
-<img width="1354" height="319" alt="image" src="https://github.com/user-attachments/assets/6b8b53cc-624a-48bd-bc40-c6cb24fd2af8" /># Project-App
+# Project-App
 
 ## Wep-App Cold Disaster Recovery
 
