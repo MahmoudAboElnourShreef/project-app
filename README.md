@@ -12,3 +12,4 @@ security monitoring, and disaster recovery (DR).
 [image here]([https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view?usp=drive_link](https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view?usp=sharing))
 
 [image here](https://drive.google.com/file/d/132BXbWzdmn32a1kOdc_8j-GdMxaDsYfo/view)
+<img width="1715" height="739" alt="gbg" src="https://github.com/user-attachments/assets/98574a3f-8ed4-4ea3-978c-db6a49845a78" />
