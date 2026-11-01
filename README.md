@@ -9,6 +9,7 @@ includes networking, firewalls, load balancing, auto scaling, databases,
 security monitoring, and disaster recovery (DR).
 
 Key AWS Services:
+
 VPC: Public & private subnets, Internet Gateway, Security Groups, NACLs
 EC2 + ASG: Launch Template, scaling policies (target tracking)
 ALB + WAF: Layer 7 routing
