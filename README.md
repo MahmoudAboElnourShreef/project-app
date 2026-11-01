@@ -8,6 +8,17 @@ AWS infrastructure for a customer-facing application. The architecture
 includes networking, firewalls, load balancing, auto scaling, databases,
 security monitoring, and disaster recovery (DR).
 
+Key AWS Services:
+VPC: Public & private subnets, Internet Gateway, Security Groups, NACLs
+EC2 + ASG: Launch Template, scaling policies (target tracking)
+ALB + WAF: Layer 7 routing
+CloudFront: Cache static assets, reduce latency
+RDS Multi-AZ: MySQL/PostgreSQL with automated failover
+Route 53: Alias record pointing to ALB, health checks
+CloudWatch + SNS: Dashboards, alarms, and notifications
+
+
+
 ### Architecture:
 
 <img width="1715" height="739" alt="my-project" src="https://github.com/user-attachments/assets/23f13e40-0bb6-4579-80ea-37495af7991e" />
