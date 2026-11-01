@@ -11,11 +11,17 @@ security monitoring, and disaster recovery (DR).
 Key AWS Services:
 
 VPC: Public & private subnets, Internet Gateway, Security Groups, NACLs
+
 EC2 + ASG: Launch Template, scaling policies (target tracking)
+
 ALB + WAF: Layer 7 routing
+
 CloudFront: Cache static assets, reduce latency
+
 RDS Multi-AZ: MySQL/PostgreSQL with automated failover
+
 Route 53: Alias record pointing to ALB, health checks
+
 CloudWatch + SNS: Dashboards, alarms, and notifications
 
 
